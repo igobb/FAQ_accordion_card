@@ -22,7 +22,7 @@ The project was created to learn and solidify my knowledge of pureJavaScript and
 ## Setup
 To run this project, open this link:
 
-⭐ <a href="https://igobb.github.io/FAQ_accordion_card/">Budget App site</a> ⭐
+⭐ <a href="https://igobb.github.io/FAQ_accordion_card/">FAQ according card</a> ⭐
 
 
 ## Project Status
